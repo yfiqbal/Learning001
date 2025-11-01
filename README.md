@@ -1,3 +1,3 @@
 # Learning001
 
-This is the first description for the README file.
+This is the second description for the README file.
